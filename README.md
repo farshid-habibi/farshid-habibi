@@ -24,3 +24,5 @@
 <h3>🔮 RxJava|30% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="150.dp"> 
 <h3>🔮 Flow|40% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
 <h3>🔮 Jetpack compose|40% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
+<h3>🔮 Wordpress|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
+<h3>🔮 Seo|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
