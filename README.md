@@ -9,3 +9,11 @@
 <h2 align="right"> تماس با من  ☎️ :</h2>
 
 <a href="https://www.linkedin.com/in/farshid-habibi/"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-linkedin-48.png"> <a href="https://www.instagram.com/farshid_habibi75"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-instagram-48.png">  <a href="https://t.me/farshid_h75"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-telegram-48.png"> 
+
+<h2 aligh="right">🪴مهارت هایی که در حال حاضر بلدم :</h2>
+
+<h3>🔮 koin|70% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="350.dp"> 
+<h3>🔮 RxJava|30% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="150.dp"> 
+<h3>🔮 Flow|40% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
+<h3>🔮 MVVM|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
+ 
