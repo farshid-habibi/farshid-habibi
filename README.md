@@ -12,6 +12,9 @@
 
 <h2 aligh="right">🪴مهارت هایی که در حال حاضر بلدم :</h2>
 
+<h3>🔮 Git|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
+<h3>🔮 Retrofit|90% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
+ <h3>🔮 Room|90% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
 <h3>🔮 koin|70% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="350.dp"> 
 <h3>🔮 RxJava|30% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="150.dp"> 
 <h3>🔮 Flow|40% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
