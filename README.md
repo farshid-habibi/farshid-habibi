@@ -13,8 +13,8 @@
 
 <h2 aligh="right">🪴مهارت هایی که در حال حاضر بلدم :</h2>
 
-<h3>🔮 Java|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
-<h3>🔮 Kotlin|70% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="350.dp">
+<h3>🔮 Java|90% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
+<h3>🔮 Kotlin|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
 <h3>🔮 OOP|90% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
 <h3>🔮 Solid|90% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
 <h3>🔮 Git|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
@@ -28,6 +28,6 @@
 <h3>🔮 RxJava|30% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="150.dp"> 
 <h3>🔮 Flow|40% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
 <h3>🔮 Jetpack compose|40% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
-<h3>🔮 Agile&Scrum |60% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="300.dp">
+<h3>🔮 Agile&Scrum |60% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
 <h3>🔮 Wordpress|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
 <h3>🔮 Seo|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
