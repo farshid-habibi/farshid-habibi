@@ -9,20 +9,25 @@
 
 <h2 align="right"> تماس با من  ☎️ :</h2>
 
-<a href="https://www.linkedin.com/in/farshid-habibi/"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-linkedin-48.png"> <a href="https://www.instagram.com/farshid_habibi75"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-instagram-48.png"> <a href="https://t.me/farshid_h75"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-telegram-48.png">  <a href="https://www.code-it.ir"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-website-50.png?raw=true">
+<a href="https://www.linkedin.com/in/farshid-habibi/"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-linkedin-48.png"> <a href="https://www.instagram.com/farshid_habibi75"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-instagram-48.png"> <a href="https://t.me/farshid_h75"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-telegram-48.png"> <a href="https://www.code-it.ir"><img src="https://github.com/sputnick01/sputnick01/blob/main/image/icons8-website-50.png?raw=true">
 
 <h2 aligh="right">🪴مهارت هایی که در حال حاضر بلدم :</h2>
 
 <h3>🔮 Java|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
 <h3>🔮 Kotlin|70% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="350.dp">
+<h3>🔮 OOP|90% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
+<h3>🔮 Solid|90% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
 <h3>🔮 Git|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
+  <h3>🔮 MVVM|70% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
+   <h3>🔮 MVP|70% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
 <h3>🔮 Retrofit|90% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
  <h3>🔮 Room|90% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
   <h3>🔮 Dependency injection|40% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
-   <h3>🔮 Mvvm|70% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="450.dp">
+<h3>🔮 coroutine|70% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="350.dp">
 <h3>🔮 koin|70% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="350.dp"> 
 <h3>🔮 RxJava|30% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="150.dp"> 
 <h3>🔮 Flow|40% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
 <h3>🔮 Jetpack compose|40% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="200.dp">
+<h3>🔮 Agile&Scrum |60% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="300.dp">
 <h3>🔮 Wordpress|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
 <h3>🔮 Seo|80% </h3> <img src="https://github.com/sputnick01/sputnick01/blob/main/image/bar.png" height="16.dp" width="400.dp">
