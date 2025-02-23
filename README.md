@@ -3,10 +3,10 @@
 <img  align="center" src="https://github.com/sputnick01/sputnick01/assets/48160693/e5434170-a154-4118-a1df-0734e11103ed">
 <h2>سلام 👋من فرشید هستم</h2>
 <p>برنامه‌نویس اندرویدم 📱و دوست دارم به همه یادش بدم 🎯  </p
-<p>  👨‍💻 Mobile Developer | Flutter & Kotlin Enthusiast
-🚀 Passionate about building high-quality, scalable, and beautiful mobile applications.
-💙 Experienced in Flutter (Dart) & Android Development (Kotlin).
-🔍 Always learning and exploring new technologies in mobile & software development.  </p
+<p>  👨‍💻 Mobile Developer | Flutter & Kotlin Enthusiast</p>
+<p>🚀 Passionate about building high-quality, scalable, and beautiful mobile applications.</p>
+<p>💙 Experienced in Flutter (Dart) & Android Development (Kotlin).</p>
+<p>🔍 Always learning and exploring new technologies in mobile & software development.</p>
 <h2 align="right">🎓مهارت ها و ابزار هایی که استفاده می‌کنم:</h2>
 
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
